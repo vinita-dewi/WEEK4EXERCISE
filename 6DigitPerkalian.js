@@ -11,7 +11,7 @@ function digitPerkalianMinimum(angka) {
             faktor.push(temp);
         }
     }
-    console.log(faktor)
+    //console.log(faktor)
     //menghitung length di tiap string dalam array.
     var digit = [];
     for (var j = 0; j < faktor.length; j++) {
